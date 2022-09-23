@@ -89,7 +89,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "RSR",
         "meta_descr": "Landing Page",
         "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-B9SL4KHMQJ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-B9SL4KHMQJ');\n</script>",
         "footer_custom": "",
